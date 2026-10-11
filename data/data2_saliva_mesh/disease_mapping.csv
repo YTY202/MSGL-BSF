@@ -1,0 +1,206 @@
+﻿index,MeSH_ID,Disease Name
+0,D000075222,Essential hypertension
+1,D000076385,Diverticular disease
+2,D000090124,Intestinal failure
+3,D000141,"Renal tubular acidosis, distal, RTA type 1"
+4,D000326,Adrenoleukodystrophy
+5,D000544,Alzheimer's disease
+6,D000690,Amyotrophic lateral sclerosis
+7,D000755,Sickle cell anemia
+8,D000856,Anorexia nervosa
+9,D001064,Appendicitis
+10,D001506,Beckwith-Wiedemann Syndrome
+11,D001656,Biliary atresia
+12,D001714,Bipolar disorder
+13,D001924,Traumatic brain injury
+14,D002100,Cachexia
+15,D002105,Cadmium exposure
+16,D002446,Celiac disease
+17,D002659,Pervasive developmental disorder not otherwise specified
+18,D002806,"Chondrodysplasia punctata, X-linked dominant"
+19,D003015,Clostridium difficile infection
+20,D003093,Ulcerative colitis
+21,D003294,Febrile seizures
+22,D003324,Coronary artery disease
+23,D003424,Crohn's disease
+24,D003555,Cystinuria
+25,D003715,Dengue fever
+26,D003731,Tooth Decay
+27,D003861,Depersonalization disorder
+28,D003865,Major depressive disorder
+29,D003922,Diabetes mellitus type 1
+30,D003924,Diabetes mellitus type 2
+31,D005258,Rheumatoid arthritis
+32,D005621,Friedreich's ataxia
+33,D005633,"Fructose intolerance, hereditary"
+34,D005693,Galactosemia
+35,D005705,Gallbladder disease
+36,D006074,Gout
+37,D006250,Hartnup disease
+38,D006501,Hepatic encephalopathy
+39,D006527,Wilson's disease
+40,D006528,Hepatocellular carcinoma
+41,D006638,Histidinemia
+42,D006712,Homocystinuria
+43,D006952,Hypercholesterolemia
+44,D006960,Primary hyperoxaluria
+45,D006980,Hyperthyroidism
+46,D007014,Hypophosphatasia
+47,D007037,Hypothyroidism
+48,D007562,Creutzfeldt-Jakob disease
+49,D007625,Chronic progressive external ophthalmoplegia and Kearns-Sayre syndrome
+50,D007676,Chronic renal failure
+51,D007680,Kidney cancer
+52,D007706,Menkes disease
+53,D007863,Lecithin:cholesterol Acyltransferase Deficiency
+54,D007926,Lesch-Nyhan syndrome
+55,D008072,Hyperlipoproteinemia
+56,D008106,Cirrhosis
+57,D008375,Maple syrup urine disease
+58,D008597,Menstrual cycle
+59,D009081,"Sialidosis, normosomatic type"
+60,D009290,Narcolepsy
+61,D009404,Nephrotic syndrome
+62,D009800,Oculocerebrorenal syndrome
+63,D010190,Pancreatic cancer
+64,D010300,Parkinson's disease
+65,D010510,Periodontal disease
+66,D010531,Continuous ambulatory peritoneal dialysis
+67,D010592,AIDS
+68,D011225,Preeclampsia
+69,D011471,Prostate cancer
+70,D011507,Proteinuria
+71,D011546,"Pseudohypoaldosteronism, type I, autosomal dominant"
+72,D012206,Rhabdomyolysis
+73,D012772,Septic shock
+74,D012778,Short bowel syndrome
+75,D013494,Progressive supranuclear palsy
+76,D013705,Temporomandibular joint disorder
+77,D013981,Tic disorder
+78,D014390,Tuberculous meningitis
+79,D014511,Uremia
+80,D014811,Vitamin E deficiency
+81,D014924,Fanconi syndrome
+82,D014929,Wolfram syndrome 1
+83,D015091,Hyper beta-alaninemia
+84,D015161,Multi-infarct dementia
+85,D015212,Inflammatory bowel disease
+86,D015217,Cholesteryl ester storage disease
+87,D015312,Hemodialysis
+88,D015319,"Fructose-1,6-diphosphatase deficiency"
+89,D015324,Pyruvate carboxylase deficiency
+90,D015325,Pyruvate dehydrogenase deficiency
+91,D015419,Hereditary spastic paraplegia
+92,D015470,Acute myelogenous leukemia
+93,D015518,Rett syndrome
+94,D015673,Fibromyalgia
+95,D015799,Hyperornithinemia with Gyrate Atrophy
+96,D016111,Aldehyde dehydrogenase deficiency
+97,D016114,X-linked ichthyosis
+98,D016137,Spina Bifida
+99,D016388,Missing teeth
+100,D016472,Motor neuron disease
+101,D016584,Panic disorder
+102,D016638,Critical illnesses
+103,D016640,Gestational diabetes
+104,D016750,Hyperekplexia
+105,D016883,Ketosis
+106,D016884,Addison's Disease
+107,D016889,Endometrial cancer
+108,D016920,Bacterial meningitis
+109,D017042,Phenylketonuria
+110,D017243,Myoclonic epilepsy and ragged red fiber disease
+111,D017436,Hypogonadism
+112,D017622,Attachment loss
+113,D017780,Malaria
+114,D017825,Canavan disease
+115,D018149,Impaired glucose tolerance
+116,D018798,Iron deficiency
+117,D018901,Hyperpipecolatemia
+118,D018902,Rhizomelic chondrodysplasia punctata
+119,D019082,Smith-Lemli-Opitz syndrome
+120,D019287,Acrodermatitis enteropathica
+121,D019294,Cerebrotendinous xanthomatosis
+122,D019440,Obesity
+123,D019967,Schizophrenia
+124,D020159,Citrullinemia type I
+125,D020162,Hyperargininemia
+126,D020163,Ornithine transcarbamylase deficiency
+127,D020165,Carbamoyl Phosphate Synthetase Deficiency
+128,D020167,Hyperlysinuria
+129,D020176,Tyrosinemia
+130,D020190,Juvenile myoclonic epilepsy
+131,D020206,Subarachnoid hemorrhage
+132,D020207,Head injury
+133,D020244,Cerebral infarction
+134,D020270,Ethanol intoxication
+135,D020301,Cerebral vasospasm
+136,D020364,Peripheral neuropathy
+137,D020388,Duchenne Muscular Dystrophy
+138,D020529,Multiple sclerosis
+139,D020728,Transurethral resection of the prostate
+140,D020734,Parkinsonian syndrome
+141,D020805,Viral infection
+142,D020806,Bacterial infections
+143,D020925,Anoxia
+144,D020936,Convulsion
+145,D020938,Epilepsy
+146,D028921,Biotinidase deficiency
+147,D029242,Leber Optic Atrophy and Dystonia
+148,D029461,Salla disease
+149,D030401,Cytochrome C oxidase deficiency
+150,D034721,Mastocytosis
+151,D040501,Cystic fibrosis
+152,D042883,Cholelithiasis
+153,D043183,Irritable bowel syndrome
+154,D043204,Apparent mineralocorticoid excess
+155,D044162,Supradiaphragmatic malignancy
+156,D044903,"Hyperinsulinemic hypoglycemia, familial, 1, HHF1"
+157,D046150,Growth hormone deficiency
+158,D050396,Autosomal  dominant polycystic kidney disease
+159,D050500,Chronic pancreatitis
+160,D050646,Methylmalonate semialdehyde dehydrogenase deficiency
+161,D050892,Sarcosinemia
+162,D052177,Kidney disease
+163,D052241,Anemia
+164,D052476,Abetalipoproteinemia
+165,D052496,Familial partial lipodystrophy
+166,D052497,"Lipodystrophy, Congenital Generalized"
+167,D053490,Enteritis
+168,D053579,Gitelman syndrome
+169,D054067,Dihydropyrimidine dehydrogenase deficiency
+170,D054078,Mevalonic aciduria
+171,D054144,Heart failure
+172,D054198,Acute Lymphoblastic Leukemia
+173,D054563,Alcoholism
+174,D054631,Stomach cancer
+175,D054882,"Congenital Adrenal Hyperplasia, due to 17-Hydroxylase-Deficiency"
+176,D055752,Lung Cancer
+177,D055756,Meningitis
+178,D055805,Anephric patients
+179,D055959,Degenerative disc disease
+180,D055985,Tuberculosis
+181,D056693,Propionic acidemia
+182,D056731,Donohue Syndrome
+183,D056732,Prolidase deficiency
+184,D056807,Argininosuccinic aciduria
+185,D056889,3-Hydroxydicarboxylic aciduria
+186,D056989,Myocardial infarction
+187,D057129,Olivopontocerebral atrophy
+188,D057180,Frontotemporal dementia
+189,D057765,Eosinophilic esophagitis
+190,D057826,Macular degeneration
+191,D058494,Hydrocephalus
+192,D059366,Asthma
+193,D059409,Stroke
+194,D061325,Ovarian cancer
+195,D061845,Smoking
+196,D063730,Hypophosphatemia
+197,D065166,Sepsis
+198,D065173,Pregnancy
+199,D065626,Nonalcoholic fatty liver disease
+200,D065627,Hypertension
+201,D065646,Thyroid cancer
+202,D066247,Leukemia
+203,D066263,Stress
+204,D066295,"Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete"
