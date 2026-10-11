@@ -1,0 +1,16 @@
+{
+  "workbook": "D:\\Python Project\\RGCGT-upload_github\\data1\\disease-metabolite.xlsx",
+  "workbook_sheets": [
+    "\u5173\u8054\u5173\u7cfb_4763\u4e2a",
+    "DAG_918\u4e2a",
+    "\u75be\u75c5_265\u4e2a",
+    "\u4ee3\u8c22\u7269_2315\u4e2a"
+  ],
+  "hmdb_source": "D:\\MicrosoftEdgeDownload\\hmdb_metabolites.zip",
+  "mesh_source": "https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/desc2026.xml",
+  "metabolites": 2315,
+  "metabolites_matched": 2291,
+  "diseases": 265,
+  "unique_mesh_ids": 254,
+  "diseases_matched": 265
+}
